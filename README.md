@@ -1,2 +1,1 @@
 # EiStudy
-Exercises -> Evaluation -> Interview
